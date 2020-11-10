@@ -2,7 +2,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-![TournamentManager_logo](./img/TournamentManager_logo.jpg)
+![TournamentManager_logo](./img/Tournament_Manager_logo.jpg)
 
 This repository contains the development of a tournament management system, intended for groups of friends who want to carry out soccer tournaments, video games or other tournaments.
 
