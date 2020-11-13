@@ -1,0 +1,5 @@
+# :hammer: Tools
+
+In this document we described the tools used in this project. In the first moment, I thought about using javascript, html and css native but I think that is more efficient used the technology ***MERN stack***.
+
+***MERN stack*** combine different libraries, as the name sugges, this use ***MongoDB*** for the relational databses, this database is very easy integrated in javascript with help of ***mongoose*** <img alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/mongoose/mongoose.png" />. Other library used is ***ExpressJS*** <img alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/express/express.png" /> for managed the backend of the system. Finally, we used ***ReactJS*** <img alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/react/react.png" /> for created the frontend. 
