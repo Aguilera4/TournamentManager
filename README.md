@@ -13,7 +13,7 @@ This project is being developed with the aim of facilitating tournaments between
 
 ### Important project documentation
 
-- :hammer: Used tools. [Click here]()
+- :hammer: Used tools. [Click here](https://github.com/Aguilera4/TournamentManager/blob/main/docs/tools.md)
 - :wrench: System structure. [Click here]()
    
 
